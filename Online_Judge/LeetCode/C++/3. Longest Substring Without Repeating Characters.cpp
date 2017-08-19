@@ -4,7 +4,6 @@ using namespace std;
 
 class Solution {
 public:
-	
 	//472ms
     int lengthOfLongestSubstring(string s) {
         map<char,int>mp;
@@ -24,8 +23,8 @@ public:
         }
         return res;
     }
-    
-    //18ms 
+
+    //18ms
     int lengthOfLongestSubstring(string s) {
         int pos[256];
         memset(pos,-1,sizeof(pos));
@@ -38,12 +37,12 @@ public:
         		res = max(res,i - st + 1);
         	}else{
         		st = pos[index] + 1;
-				pos[index] = i; 
+				pos[index] = i;
         	}
         }
         return res;
     }
-    
+
 };
 
 int main(){

@@ -3,6 +3,7 @@ using namespace std;
 
 class Solution {
 public:
+    //232ms
     double findMaxAverage(vector<int>& nums, int k) {
         double sum = 0,res = 0,i;
         for (i = 0;i < k;i++)  sum += nums[i];
@@ -16,7 +17,7 @@ public:
 };
 
 int main(){
-	freopen("input.txt","r",stdin); 
+	//freopen("input.txt","r",stdin);
     int n,tmp,k;
     vector<int>nums;
     cin >> n >> k;

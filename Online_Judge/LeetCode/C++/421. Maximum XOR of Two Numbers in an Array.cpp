@@ -12,7 +12,10 @@ public:
             for (unsigned int i = 0;i < nums.size();i++){
                 prefix.insert(nums[i] & mask);
             }
-            int tmp = res | (1 << i);
+            int tmp = res | (1 << i);          //从高位枚举答案
+
+            //set中的数相当于a、b，tmp相当于c，我们根据tmp和set中已有的一个数异或，
+            //如果得到的数也在set中，说明这两个数异或能得到tmo值，然后用tmp更新res
             for (set<int>::iterator it = prefix.begin();it != prefix.end();it++){
                 if (prefix.count(tmp^*it)){
                     res = tmp;

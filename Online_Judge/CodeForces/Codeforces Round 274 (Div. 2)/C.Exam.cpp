@@ -13,7 +13,7 @@ bool cmp(Node x,Node y)
 
 int main()
 {
-	freopen("input.txt","r",stdin);
+	//freopen("input.txt","r",stdin);
 	int n;
 	scanf("%d",&n);
 	for (int i = 0;i < n;i++)	scanf("%d%d",&node[i].first,&node[i].second);

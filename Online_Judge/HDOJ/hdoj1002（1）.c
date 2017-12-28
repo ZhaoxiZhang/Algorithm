@@ -12,16 +12,16 @@ int main()
     len_a = 0;
     len_b = 0;
     scanf("%d",&sum);
-    //è¯»å–æ•°æ®
+    //¶ÁÈ¡Êı¾İ
     for(j=0 ; j<sum ;j++)
     {
-        //è¯»å–ç¼“å­˜åŒºæ•°æ®
+        //¶ÁÈ¡»º´æÇøÊı¾İ
         memset(c,0,sizeof(int)*1005);
         scanf("%s",a);
         scanf("%s",b);
-        len_a = strlen(a)-1; //è¿™é‡Œæ˜¯ä¸‹æ ‡è€Œä¸æ˜¯é•¿åº¦ã€‚
+        len_a = strlen(a)-1; //ÕâÀïÊÇÏÂ±ê¶ø²»ÊÇ³¤¶È¡£
         len_b = strlen(b)-1;
-        //ç¡®å®šç»“æœçš„é•¿åº¦
+        //È·¶¨½á¹ûµÄ³¤¶È
         if(len_a >= len_b)
         {
             idx_c = len_a+1;
@@ -32,7 +32,7 @@ int main()
             idx_c = len_b+1;
             len_c = idx_c;
         }
-        //è¿›è¡Œç›¸åŠ çš„æ“ä½œ
+        //½øĞĞÏà¼ÓµÄ²Ù×÷
         do
         {
             c[idx_c] = c[idx_c]+a[len_a]-'0'+b[len_b]-'0';
@@ -49,7 +49,7 @@ int main()
         while(len_a != -1)
         {
             c[idx_c] = c[idx_c]+a[len_a]-'0';
-            if(c[idx_c] >= 10)//è¿™é‡Œè¦è¿›è¡Œè¿›ä½åˆ¤æ–­
+            if(c[idx_c] >= 10)//ÕâÀïÒª½øĞĞ½øÎ»ÅĞ¶Ï
             {
                 c[idx_c] %= 10;
                 c[idx_c-1] += 1;
@@ -70,7 +70,7 @@ int main()
         }
 
         printf("Case %d:\n%s + %s = ",j+1,a,b);
-        if(c[idx_c] != 0)    //çœ‹è¿™ä¸ªä½æ˜¯å¦æœ‰"å€¼"
+        if(c[idx_c] != 0)    //¿´Õâ¸öÎ»ÊÇ·ñÓĞ"Öµ"
             printf("%d", c[idx_c]);
         for(i = idx_c + 1; i <= len_c ; i++)
         {
@@ -85,3 +85,4 @@ int main()
     return 0;
 
 }
+

@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Solution {
     //56ms
     public int lengthOfLongestSubstring(String s) {

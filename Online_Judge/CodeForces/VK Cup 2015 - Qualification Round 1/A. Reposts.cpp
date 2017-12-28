@@ -12,7 +12,7 @@ int main(){
 	getchar();
 	for (int i = 0;i < n;i++){
 		gets(str);
-		
+
 		int j = 0,len = strlen(str);
 		for (j = 0;str[j] != ' ';j++){
 			if (str[j] >= 65 && str[j] <= 90){
@@ -26,13 +26,13 @@ int main(){
 			}
 		}
 		strncpy(b,str + j + 1,len - 1 - j);
-		
+
 		s.insert(a),s.insert(b);
 		mp[a] = b;
 		memset(a,0,sizeof(a));
 		memset(b,0,sizeof(b));
 	}
-	
+
 	for (it = s.begin();it != s.end();it++){
 		int len = 1;
 		string val = *it;

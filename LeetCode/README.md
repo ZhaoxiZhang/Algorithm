@@ -13,8 +13,7 @@
     <b>Last updated: 2018-04-16</b>
     <br><br>
 </p>
-<!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
-<p align="center">The source code is fetched using the tool <a href="https://github.com/Ma63d/leetcode-spider">leetcode-spider</a>.</p>
+
 
 | # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
 |:--:|:-----:|:---------:|:----:|:----:|:----:|

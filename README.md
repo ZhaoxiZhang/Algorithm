@@ -1,3 +1,3 @@
 # Algorithm
 
-Online Judge
+[LeetCode Solutions](https://github.com/ZhaoxiZhang/Algorithm/tree/master/LeetCode)

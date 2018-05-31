@@ -1,21 +1,20 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-55/738(133)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-6-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-26-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-23-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-66/758(133)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-30-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-28-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: Java C++</b>
     <br>
-    <b>Last updated: 2018-04-28</b>
+    <b>Last updated: 2018-05-31</b>
     <br><br>
 </p>
 
-
-| 题号 | Problems | Solutions | Difficulty | Acceptance | Paid-Only
+| # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
 |:--:|:-----:|:---------:|:----:|:----:|:----:|
 |001|[two-sum](https://leetcode.com/problems/two-sum/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;001.two-sum&#x2F;two-sum.cpp) [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;001.two-sum&#x2F;two-sum.java)|Easy|38.04%||
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;002.add-two-numbers&#x2F;add-two-numbers.cpp)|Medium|28.65%||
@@ -35,11 +34,13 @@
 |020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;020.valid-parentheses&#x2F;valid-parentheses.java)|Easy|34.00%||
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|41.19%||
 |023|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.java)|Hard|28.12%||
+|035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;035.search-insert-position&#x2F;search-insert-position.java)|Easy|40.05%||
 |041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;041.first-missing-positive&#x2F;first-missing-positive.java)|Hard|25.90%||
 |053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;053.maximum-subarray&#x2F;maximum-subarray.cpp)|Easy|40.31%||
 |062|[unique-paths](https://leetcode.com/problems/unique-paths/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;062.unique-paths&#x2F;unique-paths.cpp)|Medium|42.87%||
 |063|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;063.unique-paths-ii&#x2F;unique-paths-ii.cpp)|Medium|32.18%||
 |064|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;064.minimum-path-sum&#x2F;minimum-path-sum.java) [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;064.minimum-path-sum&#x2F;minimum-path-sum.cpp)|Medium|40.84%||
+|066|[plus-one](https://leetcode.com/problems/plus-one/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;066.plus-one&#x2F;plus-one.java)|Easy|39.84%||
 |070|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;070.climbing-stairs&#x2F;climbing-stairs.cpp)|Easy|41.26%||
 |072|[edit-distance](https://leetcode.com/problems/edit-distance/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;072.edit-distance&#x2F;edit-distance.java) [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;072.edit-distance&#x2F;edit-distance.cpp)|Hard|32.55%||
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;075.sort-colors&#x2F;sort-colors.java) [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;075.sort-colors&#x2F;sort-colors.cpp)|Medium|38.92%||
@@ -57,6 +58,7 @@
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;167.two-sum-ii-input-array-is-sorted&#x2F;two-sum-ii-input-array-is-sorted.cpp)|Easy|47.23%||
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;191.number-of-1-bits&#x2F;number-of-1-bits.cpp)|Easy|40.43%||
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.cpp)|Medium|32.14%||
+|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;230.kth-smallest-element-in-a-bst&#x2F;kth-smallest-element-in-a-bst.java)|Medium|45.62%||
 |231|[power-of-two](https://leetcode.com/problems/power-of-two/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;231.power-of-two&#x2F;power-of-two.java)|Easy|40.78%||
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;260.single-number-iii&#x2F;single-number-iii.cpp)|Medium|53.24%||
 |268|[missing-number](https://leetcode.com/problems/missing-number/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;268.missing-number&#x2F;missing-number.java)|Easy|45.19%||
@@ -67,9 +69,17 @@
 |371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.cpp)|Easy|50.89%||
 |389|[find-the-difference](https://leetcode.com/problems/find-the-difference/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;389.find-the-difference&#x2F;find-the-difference.cpp)|Easy|51.32%||
 |421|[maximum-xor-of-two-numbers-in-an-array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;421.maximum-xor-of-two-numbers-in-an-array&#x2F;maximum-xor-of-two-numbers-in-an-array.cpp)|Medium|47.98%||
+|454|[4sum-ii](https://leetcode.com/problems/4sum-ii/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;454.4sum-ii&#x2F;4sum-ii.java) [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;454.4sum-ii&#x2F;4sum-ii.cpp)|Medium|47.62%||
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;461.hamming-distance&#x2F;hamming-distance.cpp)|Easy|69.51%||
 |476|[number-complement](https://leetcode.com/problems/number-complement/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;476.number-complement&#x2F;number-complement.cpp)|Easy|61.11%||
 |477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;477.total-hamming-distance&#x2F;total-hamming-distance.cpp)|Medium|47.47%||
 |643|[maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;643.maximum-average-subarray-i&#x2F;maximum-average-subarray-i.cpp)|Easy|37.51%||
 |679|[24-game](https://leetcode.com/problems/24-game/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;679.24-game&#x2F;24-game.java)|Hard|38.74%||
+|855|[unique-letter-string](https://leetcode.com/problems/unique-letter-string/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;855.unique-letter-string&#x2F;unique-letter-string.java)|Hard|32.20%||
+|861|[flipping-an-image](https://leetcode.com/problems/flipping-an-image/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;861.flipping-an-image&#x2F;flipping-an-image.java)|Easy|73.31%||
+|862|[find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;862.find-and-replace-in-string&#x2F;find-and-replace-in-string.java)|Medium|36.80%||
+|863|[sum-of-distances-in-tree](https://leetcode.com/problems/sum-of-distances-in-tree/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;863.sum-of-distances-in-tree&#x2F;sum-of-distances-in-tree.java)|Hard|29.54%||
+|866|[rectangle-overlap](https://leetcode.com/problems/rectangle-overlap/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;866.rectangle-overlap&#x2F;rectangle-overlap.java)|Easy|38.16%||
+|870|[magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid/)| [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.cpp) [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|33.49%||
+|871|[keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/)| [Java](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java) [C++](https:&#x2F;&#x2F;github.com&#x2F;ZhaoxiZhang&#x2F;Algorithm&#x2F;blob&#x2F;master&#x2F;LeetCode&#x2F;&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.cpp)|Medium|61.39%||
 

@@ -2,10 +2,15 @@ Given a m x n grid filled with non-negative numbers, find a path from top left t
 
 Note: You can only move either down or right at any point in time.
 
-Example 1:
+Example:
 
-[[1,3,1],
- [1,5,1],
- [4,2,1]]
 
-Given the above grid map, return 7. Because the path 1&rarr;3&rarr;1&rarr;1&rarr;1 minimizes the sum.
+Input:
+[
+&nbsp; [1,3,1],
+  [1,5,1],
+  [4,2,1]
+]
+Output: 7
+Explanation: Because the path 1&rarr;3&rarr;1&rarr;1&rarr;1 minimizes the sum.
+

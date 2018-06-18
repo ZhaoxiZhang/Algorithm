@@ -2,7 +2,7 @@ A rectangle is&nbsp;represented as a&nbsp;list [x1, y1, x2, y2], where&nbsp;(x1,
 
 Two rectangles overlap if the area of their intersection is positive.&nbsp; To be clear, two rectangles that only touch at the corner or edges do not overlap.
 
-Given two rectangles, return whether&nbsp;they overlap.
+Given two (axis-aligned) rectangles, return whether&nbsp;they overlap.
 
 Example 1:
 

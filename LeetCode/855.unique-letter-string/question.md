@@ -10,7 +10,7 @@ Given a string S with only uppercases, calculate the sum of UNIQ(substring) over
 
 If there are two or more equal substrings at different positions in S, we consider them different.
 
-Since the answer can be very large, retrun the answer&nbsp;modulo&nbsp;10 ^ 9 + 7.
+Since the answer can be very large, return&nbsp;the answer&nbsp;modulo&nbsp;10 ^ 9 + 7.
 
 &nbsp;
 

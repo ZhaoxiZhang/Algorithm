@@ -1,14 +1,16 @@
 class Solution {
-public:
-    int climbStairs(int n) {
-        if (n == 1) return 1;
-        if (n == 2) return 2;
-        int a = 1,b = 2,res;
-        for (int i = 2; i < n;i++){
-            res = a + b;
-            a = b;
-            b = res;
+private:
+    int FibHelper(int n, vector<int>&res){
+        if (n < 3)  return n;
+        else if (res[n] == 0){
+            res[n] = FibHelper(n - 1, res) + FibHelper(n - 2, res);
         }
-        return res;
+        return res[n];
+    }
+public:
+    int climbStairs(int n){
+        vector<int>res;
+        res.resize(n + 1);
+        return FibHelper(n, res);
     }
 };

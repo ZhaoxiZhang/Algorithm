@@ -1,11 +1,28 @@
 public class Solution {
+    public class Solution {
     public String replaceSpace(StringBuffer str) {
-        //System.out.println(str.length());
-        for (int i = 0;i < str.length();i++){
-            if (str.charAt(i) == ' '){
-                str.replace(i,i + 1,"%20");
+        int i = 0,blank = 0;
+        while (i < str.length()){
+            if (str.charAt(i++) == ' '){
+                blank++;
             }
         }
-        return str.toString();
+        int originLength = str.length();
+        int newLength = originLength + 2 * blank;
+        char[] cstr = new char[newLength];
+        originLength--;
+        newLength--;
+        while (originLength >= 0 && originLength <= newLength){
+            if (str.charAt(originLength) == ' '){
+                cstr[newLength--] = '0';
+                cstr[newLength--] = '2';
+                cstr[newLength--] = '%';
+                originLength--;
+            }else{
+                cstr[newLength--] = str.charAt(originLength--);
+            }
+        }
+        return new String(cstr);
     }
+}
 }

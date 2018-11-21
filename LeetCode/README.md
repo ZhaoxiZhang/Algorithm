@@ -1,3 +1,12 @@
+<p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/108/937-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-48-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-51-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-9-red.svg" alt="">
+</p>
+
 | # | Title | Solution | Acceptance | Difficulty | Paid-Only
 |:--:|:-----:|:---------:|:----:|:----:|:----:|
 | 001 | two-sum | [C++](./001.two-sum/two-sum.cpp) [Java](./001.two-sum/two-sum.java)  | 39.23% | Easy |   |
@@ -5,9 +14,9 @@
 | 003 | longest-substring-without-repeating-characters | [C++](./003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) [Java](./003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)  | 25.33% | Medium |   |
 | 004 | median-of-two-sorted-arrays | [C++](./004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) [Java](./004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.java)  | 24.38% | Hard |   |
 | 005 | longest-palindromic-substring | [C++](./005.longest-palindromic-substring/longest-palindromic-substring.cpp)  | 25.71% | Medium |   |
-| 006 | zigzag-conversion | [C++](./006.zigzag-conversion/zigzag-conversion.cpp) [Java](./006.zigzag-conversion/zigzag-conversion.java)  | 29.22% | Medium |   |
+| 006 | zigzag-conversion | [C++](./006.zigzag-conversion/zigzag-conversion.cpp) [Java](./006.zigzag-conversion/zigzag-conversion.java)  | 29.23% | Medium |   |
 | 007 | reverse-integer | [C++](./007.reverse-integer/reverse-integer.cpp)  | 24.58% | Easy |   |
-| 009 | palindrome-number | [C++](./009.palindrome-number/palindrome-number.cpp)  | 39.61% | Easy |   |
+| 009 | palindrome-number | [C++](./009.palindrome-number/palindrome-number.cpp)  | 39.62% | Easy |   |
 | 011 | container-with-most-water | [Java](./011.container-with-most-water/container-with-most-water.java)  | 40.16% | Medium |   |
 | 014 | longest-common-prefix | [Java](./014.longest-common-prefix/longest-common-prefix.java)  | 32.24% | Easy |   |
 | 015 | 3sum | [Java](./015.3sum/3sum.java)  | 22.40% | Medium |   |
@@ -30,7 +39,7 @@
 | 059 | spiral-matrix-ii | [C++](./059.spiral-matrix-ii/spiral-matrix-ii.cpp) [Java](./059.spiral-matrix-ii/spiral-matrix-ii.java)  | 43.87% | Medium |   |
 | 062 | unique-paths | [C++](./062.unique-paths/unique-paths.cpp) [Java](./062.unique-paths/unique-paths.java)  | 45.09% | Medium |   |
 | 063 | unique-paths-ii | [C++](./063.unique-paths-ii/unique-paths-ii.cpp) [Java](./063.unique-paths-ii/unique-paths-ii.java)  | 32.82% | Medium |   |
-| 064 | minimum-path-sum | [C++](./064.minimum-path-sum/minimum-path-sum.cpp) [Java](./064.minimum-path-sum/minimum-path-sum.java)  | 43.87% | Medium |   |
+| 064 | minimum-path-sum | [C++](./064.minimum-path-sum/minimum-path-sum.cpp) [Java](./064.minimum-path-sum/minimum-path-sum.java)  | 43.88% | Medium |   |
 | 066 | plus-one | [Java](./066.plus-one/plus-one.java)  | 40.11% | Easy |   |
 | 069 | sqrtx | [C++](./069.sqrtx/sqrtx.cpp) [Java](./069.sqrtx/sqrtx.java)  | 29.80% | Easy |   |
 | 070 | climbing-stairs | [C++](./070.climbing-stairs/climbing-stairs.cpp) [Java](./070.climbing-stairs/climbing-stairs.java)  | 42.37% | Easy |   |
@@ -52,7 +61,7 @@
 | 146 | lru-cache | [C++](./146.lru-cache/lru-cache.cpp) [Java](./146.lru-cache/lru-cache.java)  | 22.35% | Hard |   |
 | 148 | sort-list | [Java](./148.sort-list/sort-list.java)  | 32.47% | Medium |   |
 | 167 | two-sum-ii-input-array-is-sorted | [C++](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp)  | 47.97% | Easy |   |
-| 169 | majority-element | [C++](./169.majority-element/majority-element.cpp) [Java](./169.majority-element/majority-element.java)  | 50.16% | Easy |   |
+| 169 | majority-element | [C++](./169.majority-element/majority-element.cpp) [Java](./169.majority-element/majority-element.java)  | 50.17% | Easy |   |
 | 190 | reverse-bits | [Java](./190.reverse-bits/reverse-bits.java)  | 29.20% | Easy |   |
 | 191 | number-of-1-bits | [C++](./191.number-of-1-bits/number-of-1-bits.cpp) [Java](./191.number-of-1-bits/number-of-1-bits.java)  | 40.94% | Easy |   |
 | 198 | house-robber | [C++](./198.house-robber/house-robber.cpp) [Java](./198.house-robber/house-robber.java)  | 40.47% | Easy |   |
@@ -62,7 +71,7 @@
 | 230 | kth-smallest-element-in-a-bst | [Java](./230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java)  | 48.27% | Medium |   |
 | 231 | power-of-two | [Java](./231.power-of-two/power-of-two.java)  | 41.24% | Easy |   |
 | 237 | delete-node-in-a-linked-list | [C++](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) [Java](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)  | 50.25% | Easy |   |
-| 238 | product-of-array-except-self | [C++](./238.product-of-array-except-self/product-of-array-except-self.cpp) [Java](./238.product-of-array-except-self/product-of-array-except-self.java)  | 52.50% | Medium |   |
+| 238 | product-of-array-except-self | [C++](./238.product-of-array-except-self/product-of-array-except-self.cpp) [Java](./238.product-of-array-except-self/product-of-array-except-self.java)  | 52.49% | Medium |   |
 | 240 | search-a-2d-matrix-ii | [C++](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.cpp) [Java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)  | 39.58% | Medium |   |
 | 260 | single-number-iii | [C++](./260.single-number-iii/single-number-iii.cpp)  | 55.14% | Medium |   |
 | 263 | ugly-number | [C++](./263.ugly-number/ugly-number.cpp) [Java](./263.ugly-number/ugly-number.java)  | 40.09% | Easy |   |
@@ -77,7 +86,7 @@
 | 344 | reverse-string | [C++](./344.reverse-string/reverse-string.cpp) [Java](./344.reverse-string/reverse-string.java)  | 61.83% | Easy |   |
 | 349 | intersection-of-two-arrays | [C++](./349.intersection-of-two-arrays/intersection-of-two-arrays.cpp)  | 50.95% | Easy |   |
 | 371 | sum-of-two-integers | [C++](./371.sum-of-two-integers/sum-of-two-integers.cpp)  | 51.11% | Easy |   |
-| 387 | first-unique-character-in-a-string | [C++](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) [Java](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.java)  | 47.89% | Easy |   |
+| 387 | first-unique-character-in-a-string | [C++](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) [Java](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.java)  | 47.90% | Easy |   |
 | 389 | find-the-difference | [C++](./389.find-the-difference/find-the-difference.cpp)  | 52.11% | Easy |   |
 | 392 | is-subsequence | [C++](./392.is-subsequence/is-subsequence.cpp) [Java](./392.is-subsequence/is-subsequence.java)  | 45.42% | Medium |   |
 | 412 | fizz-buzz | [C++](./412.fizz-buzz/fizz-buzz.cpp) [Java](./412.fizz-buzz/fizz-buzz.java)  | 58.11% | Easy |   |
@@ -91,19 +100,19 @@
 | 476 | number-complement | [C++](./476.number-complement/number-complement.cpp)  | 61.54% | Easy |   |
 | 477 | total-hamming-distance | [C++](./477.total-hamming-distance/total-hamming-distance.cpp)  | 47.98% | Medium |   |
 | 643 | maximum-average-subarray-i | [C++](./643.maximum-average-subarray-i/maximum-average-subarray-i.cpp)  | 38.16% | Easy |   |
-| 679 | 24-game | [Java](./679.24-game/24-game.java)  | 40.08% | Hard |   |
-| 747 | min-cost-climbing-stairs | [C++](./747.min-cost-climbing-stairs/min-cost-climbing-stairs.cpp) [Java](./747.min-cost-climbing-stairs/min-cost-climbing-stairs.java)  | 44.57% | Easy |   |
-| 855 | unique-letter-string | [Java](./855.unique-letter-string/unique-letter-string.java)  | 36.68% | Hard |   |
+| 679 | 24-game | [Java](./679.24-game/24-game.java)  | 40.09% | Hard |   |
+| 747 | min-cost-climbing-stairs | [C++](./747.min-cost-climbing-stairs/min-cost-climbing-stairs.cpp) [Java](./747.min-cost-climbing-stairs/min-cost-climbing-stairs.java)  | 44.56% | Easy |   |
+| 855 | unique-letter-string | [Java](./855.unique-letter-string/unique-letter-string.java)  | 36.70% | Hard |   |
 | 861 | flipping-an-image | [Java](./861.flipping-an-image/flipping-an-image.java)  | 69.29% | Easy |   |
-| 862 | find-and-replace-in-string | [Java](./862.find-and-replace-in-string/find-and-replace-in-string.java)  | 42.39% | Medium |   |
+| 862 | find-and-replace-in-string | [Java](./862.find-and-replace-in-string/find-and-replace-in-string.java)  | 42.41% | Medium |   |
 | 863 | sum-of-distances-in-tree | [Java](./863.sum-of-distances-in-tree/sum-of-distances-in-tree.java)  | 35.67% | Hard |   |
-| 866 | rectangle-overlap | [Java](./866.rectangle-overlap/rectangle-overlap.java)  | 44.26% | Easy |   |
+| 866 | rectangle-overlap | [Java](./866.rectangle-overlap/rectangle-overlap.java)  | 44.25% | Easy |   |
 | 870 | magic-squares-in-grid | [C++](./870.magic-squares-in-grid/magic-squares-in-grid.cpp) [Java](./870.magic-squares-in-grid/magic-squares-in-grid.java)  | 34.66% | Easy |   |
 | 871 | keys-and-rooms | [C++](./871.keys-and-rooms/keys-and-rooms.cpp) [Java](./871.keys-and-rooms/keys-and-rooms.java)  | 57.75% | Medium |   |
-| 878 | shifting-letters | [C++](./878.shifting-letters/shifting-letters.cpp) [Java](./878.shifting-letters/shifting-letters.java)  | 37.06% | Medium |   |
-| 879 | maximize-distance-to-closest-person | [C++](./879.maximize-distance-to-closest-person/maximize-distance-to-closest-person.cpp) [Java](./879.maximize-distance-to-closest-person/maximize-distance-to-closest-person.java)  | 38.77% | Easy |   |
+| 878 | shifting-letters | [C++](./878.shifting-letters/shifting-letters.cpp) [Java](./878.shifting-letters/shifting-letters.java)  | 37.05% | Medium |   |
+| 879 | maximize-distance-to-closest-person | [C++](./879.maximize-distance-to-closest-person/maximize-distance-to-closest-person.cpp) [Java](./879.maximize-distance-to-closest-person/maximize-distance-to-closest-person.java)  | 38.73% | Easy |   |
 | 881 | loud-and-rich | [C++](./881.loud-and-rich/loud-and-rich.cpp) [Java](./881.loud-and-rich/loud-and-rich.java)  | 45.23% | Medium |   |
-| 882 | peak-index-in-a-mountain-array | [Java](./882.peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java)  | 67.30% | Easy |   |
+| 882 | peak-index-in-a-mountain-array | [Java](./882.peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java)  | 67.31% | Easy |   |
 | 883 | car-fleet | [C++](./883.car-fleet/car-fleet.cpp)  | 35.66% | Medium |   |
 | 890 | lemonade-change | [C++](./890.lemonade-change/lemonade-change.cpp) [Java](./890.lemonade-change/lemonade-change.java)  | 49.45% | Easy |   |
 | 891 | score-after-flipping-matrix | [C++](./891.score-after-flipping-matrix/score-after-flipping-matrix.cpp) [Java](./891.score-after-flipping-matrix/score-after-flipping-matrix.java)  | 67.05% | Medium |   |

@@ -1,10 +1,10 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/ZhaoxiZhang/LeetCodeCrawler/master/pictures/site-logo.png"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/148/1084-Solved/Total-blue.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-59-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-79-orange.svg" alt="">
-    <img src="https://img.shields.io/badge/Hard-10-red.svg" alt="">
+    <img src="https://img.shields.io/badge/155/1188-Solved/Total-blue.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-64-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-80-orange.svg" alt="">
+    <img src="https://img.shields.io/badge/Hard-11-red.svg" alt="">
 </p>
 
 
@@ -57,6 +57,8 @@
 - [Minimum Increment to Make Array Unique](./0945.minimum-increment-to-make-array-unique)
 - [Array of Doubled Pairs](./0954.array-of-doubled-pairs)
 - [Find Common Characters](./1002.find-common-characters)
+- [Duplicate Zeros](./1089.duplicate-zeros)
+- [Find Words That Can Be Formed by Characters](./1160.find-words-that-can-be-formed-by-characters)
 ## Backtracking
 - [Letter Combinations of a Phone Number](./0017.letter-combinations-of-a-phone-number)
 - [Generate Parentheses](./0022.generate-parentheses)
@@ -117,6 +119,7 @@
 - [Perfect Squares](./0279.perfect-squares)
 - [01 Matrix](./0542.01-matrix)
 - [Employee Importance](./0690.employee-importance)
+- [Shortest Path in Binary Matrix](./1091.shortest-path-in-binary-matrix)
 ## Depth-first Search
 - [Validate Binary Search Tree](./0098.validate-binary-search-tree)
 - [Same Tree](./0100.same-tree)
@@ -160,6 +163,7 @@
 - [Is Subsequence](./0392.is-subsequence)
 - [Min Cost Climbing Stairs](./0746.min-cost-climbing-stairs)
 - [Bitwise ORs of Subarrays](./0898.bitwise-ors-of-subarrays)
+- [Shortest Common Supersequence ](./1092.shortest-common-supersequence)
 ## Graph
 - [Keys and Rooms](./0841.keys-and-rooms)
 ## Greedy
@@ -175,6 +179,7 @@
 - [Score After Flipping Matrix](./0861.score-after-flipping-matrix)
 - [Bag of Tokens](./0948.bag-of-tokens)
 - [Delete Columns to Make Sorted II](./0955.delete-columns-to-make-sorted-ii)
+- [Largest Values From Labels](./1090.largest-values-from-labels)
 ## Hash Table
 - [Two Sum](./0001.two-sum)
 - [Longest Substring Without Repeating Characters](./0003.longest-substring-without-repeating-characters)
@@ -188,9 +193,13 @@
 - [Find the Difference](./0389.find-the-difference)
 - [4Sum II](./0454.4sum-ii)
 - [Employee Importance](./0690.employee-importance)
+- [Jewels and Stones](./0771.jewels-and-stones)
 - [Verifying an Alien Dictionary](./0953.verifying-an-alien-dictionary)
 - [Array of Doubled Pairs](./0954.array-of-doubled-pairs)
+- [N-Repeated Element in Size 2N Array](./0961.n-repeated-element-in-size-2n-array)
 - [Find Common Characters](./1002.find-common-characters)
+- [Largest Values From Labels](./1090.largest-values-from-labels)
+- [Find Words That Can Be Formed by Characters](./1160.find-words-that-can-be-formed-by-characters)
 ## Heap
 - [Merge k Sorted Lists](./0023.merge-k-sorted-lists)
 - [Kth Largest Element in an Array](./0215.kth-largest-element-in-an-array)
